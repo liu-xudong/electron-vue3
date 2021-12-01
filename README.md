@@ -7,3 +7,7 @@
 ## src
     渲染进程程序位置，同vue3
 
+## 命令
+    启动程序： yarn electron:serve || npm run electron:serve
+    打包命令： yarn electron:build || npm run electron:build
+ 
